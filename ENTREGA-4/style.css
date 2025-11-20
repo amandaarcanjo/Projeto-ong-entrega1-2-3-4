@@ -1,0 +1,16 @@
+/* ================================
+   MÃOS DO FUTURO — CSS PRINCIPAL
+   ENTREGRA 4
+================================ */
+
+@import url("css/variables.css");
+@import url("css/typography.css");
+@import url("css/spacing.css");
+@import url("css/grid.css");
+@import url("css/layout.css");
+@import url("css/navigation.css");
+@import url("css/cards.css");
+@import url("css/components.css");
+@import url("css/forms.css");
+@import url("css/feedback.css");
+@import url("css/utilities.css");

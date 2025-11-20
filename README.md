@@ -1,17 +1,9 @@
-# ENTREGRA 1 — HTML PURO
+# 🦾 MÃOS DO FUTURO — PROJETO COMPLETO (ENTREGA 1, 2, 3 e 4)
 
-Esta pasta contém a primeira entrega do projeto **Mãos do Futuro**.
+Repositório contendo todas as fases do desenvolvimento do site **MÃOS DO FUTURO**, projeto de extensão/atividade acadêmica inspirado em iniciativas como a e-NABLE, com foco em próteses 3D para crianças.
 
-## 📌 Requisitos atendidos
-- Apenas **HTML puro**, sem CSS e sem JavaScript.
-- Estrutura semântica correta.
-- Três páginas navegáveis pela barra de navegação.
-
-## 📄 Arquivos incluídos
-- `index.html` — Página inicial.
-- `projetos.html` — Lista de projetos.
-- `cadastro.html` — Formulário simples de voluntário.
+Cada entrega representa uma etapa evolutiva do projeto, aumentando a complexidade, organização e funcionalidades.
 
 ---
 
-Projeto acadêmico – 2025.
+# 📁 ESTRUTURA GERAL DO PROJETO

@@ -1,7 +1,6 @@
 🦾 MÃOS DO FUTURO — PROJETO COMPLETO (ENTREGA 1, 2, 3 e 4)
 
-Repositório contendo todas as fases do desenvolvimento do site MÃOS DO FUTURO, inspirado em iniciativas como a e-NABLE, com foco em próteses 3D para crianças.
-
+Repositório contendo todas as fases do desenvolvimento do site MÃOS DO FUTURO, inspirado em iniciativas como a e-NABLE, com foco em próteses 3D para crianças.Estou fazendo sobre esse topico pois realmente quero construir essa ONG, sendo esse o primeiro teste de site pra ela 
 Cada entrega representa um avanço: começando pelo HTML simples, depois CSS modularizado, depois funcionalidades JavaScript e, por fim, a versão final otimizada e minificada.
 
 

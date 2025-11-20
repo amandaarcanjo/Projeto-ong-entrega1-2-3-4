@@ -1,0 +1,35 @@
+/* =========================================
+   SPACING — Espaçamentos globais
+   ENTREGRA 2
+========================================= */
+
+.espaco-p {
+  margin: var(--espaco-pequeno);
+  padding: var(--espaco-pequeno);
+}
+
+.espaco-m {
+  margin: var(--espaco-medio);
+  padding: var(--espaco-medio);
+}
+
+.espaco-g {
+  margin: var(--espaco-grande);
+  padding: var(--espaco-grande);
+}
+
+.mt-p { margin-top: var(--espaco-pequeno); }
+.mt-m { margin-top: var(--espaco-medio); }
+.mt-g { margin-top: var(--espaco-grande); }
+
+.mb-p { margin-bottom: var(--espaco-pequeno); }
+.mb-m { margin-bottom: var(--espaco-medio); }
+.mb-g { margin-bottom: var(--espaco-grande); }
+
+.pt-p { padding-top: var(--espaco-pequeno); }
+.pt-m { padding-top: var(--espaco-medio); }
+.pt-g { padding-top: var(--espaco-grande); }
+
+.pb-p { padding-bottom: var(--espaco-pequeno); }
+.pb-m { padding-bottom: var(--espaco-medio); }
+.pb-g { padding-bottom: var(--espaco-grande); }

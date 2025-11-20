@@ -1,0 +1,29 @@
+/* =========================================
+   FEEDBACK — Alertas, notificações e mensagens
+   ENTREGRA 2
+========================================= */
+
+.feedback {
+  padding: var(--espaco-medio);
+  border-radius: var(--radius);
+  margin-bottom: var(--espaco-medio);
+  font-weight: bold;
+}
+
+/* Sucesso */
+.feedback.sucesso {
+  background-color: var(--sucesso);
+  color: white;
+}
+
+/* Erro */
+.feedback.erro {
+  background-color: var(--erro);
+  color: white;
+}
+
+/* Aviso */
+.feedback.aviso {
+  background-color: var(--aviso);
+  color: black;
+}

@@ -1,0 +1,25 @@
+/* =========================================
+   VARIABLES — Variáveis Globais de Cores e Espaços
+   ENTREGRA 2
+========================================= */
+
+:root {
+  /* CORES PRINCIPAIS */
+  --cor-primaria: #004aad;
+  --cor-secundaria: #00aaff;
+  --cor-escura: #222;
+  --cor-clara: #f5f5f5;
+
+  /* CORES DE ALERTA */
+  --sucesso: #28a745;
+  --erro: #dc3545;
+  --aviso: #ffc107;
+
+  /* ESPAÇAMENTO */
+  --espaco-pequeno: 8px;
+  --espaco-medio: 16px;
+  --espaco-grande: 32px;
+
+  /* BORDAS */
+  --radius: 4px;
+}

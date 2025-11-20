@@ -1,0 +1,45 @@
+/* =========================================
+   LAYOUT — Estruturas gerais da página
+   ENTREGRA 2
+========================================= */
+
+/* Limita o conteúdo central */
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Sessões */
+section {
+  margin-bottom: var(--espaco-grande);
+  padding: var(--espaco-medio);
+  background-color: #fff;
+  border-radius: var(--radius);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* Hero estilizado */
+.hero {
+  background: linear-gradient(to right, var(--cor-primaria), var(--cor-secundaria));
+  color: white;
+  padding: var(--espaco-grande);
+  border-radius: var(--radius);
+  text-align: center;
+}
+
+/* Cabeçalho */
+header {
+  background-color: var(--cor-primaria);
+  padding: var(--espaco-medio);
+  color: white;
+  text-align: center;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: var(--espaco-medio);
+  margin-top: var(--espaco-grande);
+  color: var(--cor-escura);
+}

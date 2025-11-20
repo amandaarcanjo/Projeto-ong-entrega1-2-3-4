@@ -1,0 +1,64 @@
+/* =========================================
+   COMPONENTS — Botões, caixas, elementos reutilizáveis
+   ENTREGRA 2
+========================================= */
+
+/* Botões padrão */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: var(--cor-primaria);
+  color: white;
+  border-radius: var(--radius);
+  font-weight: bold;
+  transition: 0.3s;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: var(--cor-secundaria);
+}
+
+/* Caixas destacadas */
+.box {
+  padding: var(--espaco-medio);
+  background-color: #ffffff;
+  border-radius: var(--radius);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  margin-bottom: var(--espaco-medio);
+}
+
+/* Títulos de seção */
+.section-title {
+  font-size: 24px;
+  margin-bottom: var(--espaco-medio);
+  color: var(--cor-primaria);
+}
+
+/* Alerta – sucesso */
+.alert-sucesso {
+  background-color: var(--sucesso);
+  color: white;
+  padding: var(--espaco-medio);
+  border-radius: var(--radius);
+  margin-bottom: var(--espaco-medio);
+}
+
+/* Alerta – erro */
+.alert-erro {
+  background-color: var(--erro);
+  color: white;
+  padding: var(--espaco-medio);
+  border-radius: var(--radius);
+  margin-bottom: var(--espaco-medio);
+}
+
+/* Alerta – aviso */
+.alert-aviso {
+  background-color: var(--aviso);
+  color: black;
+  padding: var(--espaco-medio);
+  border-radius: var(--radius);
+  margin-bottom: var(--espaco-medio);
+}
